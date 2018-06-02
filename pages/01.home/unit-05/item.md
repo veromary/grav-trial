@@ -4,7 +4,7 @@ published: true
 date: '04-10-2017 00:00'
 header_image_credit: 'Nicholas Wang, Flickr.com'
 header_image_creditlink: 'https://www.flickr.com/photos/cloneofsnake/13966760787/'
-hide_from_post_list: true
+hide_from_post_list: false
 continue_link: true
 hide_git_sync_repo_link: false
 ---
