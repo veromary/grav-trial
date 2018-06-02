@@ -1,8 +1,10 @@
 ---
 title: 'Week 7 (Oct 18 - Oct 24)'
-date: 10/18/2017
-published: false
+published: true
+date: '18-10-2017 00:00'
 hide_from_post_list: false
+continue_link: true
+hide_git_sync_repo_link: false
 ---
 
 ##### Your H5 Heading
